@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mieke! 👋
+### Junior QA Engineer in Training
 
-<!--
-**MiekeScarrott/MiekeScarrott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring Quality Assurance Engineer focusing on manual testing methodologies, automated test frameworks, and defect tracking. I enjoy breaking software to help teams build bulletproof products.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools I am Learning
+- **Automation:** Python, Playwright, Selenium
+- **API Testing:** Postman
+- **Project Management:** Jira, GitHub Issues
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Current Projects & Learning Goals
+- 🔍 Mastering API test automation with Postman.
+- 🏗️ Building a robust UI testing suite for a demo e-commerce website.
+- 📝 Practicing agile defect tracking and test case writing.
+
+## 📫 Connect with me
+- **LinkedIn:** [Insert Link]
+- **Email:** [Insert Email]
